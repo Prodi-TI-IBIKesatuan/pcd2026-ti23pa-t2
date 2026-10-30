@@ -1,0 +1,19 @@
+# Anggota kelompok. Repo ini PUBLIK: jangan menulis NIM, email, atau nomor HP di sini.
+# nama : nama panggilan
+# peran: data, klasik, modern, evaluasi (boleh lebih dari satu, pisahkan dengan koma).
+#        Keempat peran harus ada yang memegang. Lihat proyek/README.md di repo kelas-pcd-2026.
+kelas: ti23pa
+topik: t2
+anggota:
+  - github: AdhimasDwi
+    nama: "[isi]"
+    peran: "[isi]"
+  - github: MhdToriq06
+    nama: "[isi]"
+    peran: "[isi]"
+  - github: MuhammadAryaNS
+    nama: "[isi]"
+    peran: "[isi]"
+  - github: fadlysyiraz
+    nama: "[isi]"
+    peran: "[isi]"
