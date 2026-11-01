@@ -6,14 +6,14 @@ kelas: ti23pa
 topik: t2
 anggota:
   - github: AdhimasDwi
-    nama: "[isi]"
-    peran: "[isi]"
+    nama: "Adhimas"
+    peran: "data & anotasi"
   - github: MhdToriq06
-    nama: "[isi]"
-    peran: "[isi]"
+    nama: "Toriq"
+    peran: "evaluasi & demo"
   - github: MuhammadAryaNS
-    nama: "[isi]"
-    peran: "[isi]"
+    nama: "Arya"
+    peran: "preprocessing & klasik "
   - github: fadlysyiraz
-    nama: "[isi]"
-    peran: "[isi]"
+    nama: "Fadly"
+    peran: "modern"
