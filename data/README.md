@@ -15,7 +15,7 @@ Dataset lengkap tidak disimpan di repo ini. Repo hanya berisi `sample/` (≤ 20 
 
 Pasangan citra gelap–terang sebagai referensi (mis. dataset LOL) dan foto malam sendiri. Foto sendiri tanpa pasangan dinilai dengan metrik tanpa referensi (NIQE/BRISQUE, opsional lewat paket pyiqa).
 
-Simpan sebagai `anotasi.csv` di folder Drive, satu baris per citra (atau per pasangan), dengan kolom persis seperti format_anotasi.csv. Baris contoh di berkas itu fiktif.
+Simpan sebagai `anotasi.csv` di folder Drive, satu baris per citra (atau per pasangan), dengan kolom persis seperti [format_anotasi.csv](https://github.com/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t2/blob/main/data/format_anotasi.csv). Baris contoh di berkas itu fiktif.
 
 ## Etika dan privasi
 
