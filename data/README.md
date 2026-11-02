@@ -1,21 +1,21 @@
 # Data
 
-Dataset lengkap **tidak** disimpan di repo ini. Repo hanya berisi `sample/` (≤ 20 gambar yang sudah disensor) untuk contoh dan demo.
+Dataset lengkap tidak disimpan di repo ini. Repo hanya berisi `sample/` (≤ 20 gambar yang sudah disensor) untuk contoh dan demo.
 
 ## Ringkasan
 
-- Tautan folder Google Drive (akses terbatas): [isi: https://drive.google.com/drive/folders/...]
-- Jumlah citra: [isi]
-- Foto sendiri per anggota: [isi: mis. andi 20, budi 15, ...]
-- Sumber data tambahan dan lisensinya: [isi, atau "tidak ada"]
-- Jumlah baris anotasi: [isi]
-- Cara pengambilan foto (perangkat, waktu, lokasi umum): [isi]
+* Tautan folder Google Drive (akses terbatas): https://drive.google.com/drive/folders/1joDeQtj9KFQZiE5Hr3ppgadUhE9jLWSu?usp=sharing
+* Jumlah citra: 202 (140 pasangan gelap–terang dari LOL + 62 foto malam sendiri)
+* Foto sendiri per anggota: adhimas 15, arya 15, fadly 15, toriq 17
+* Sumber data tambahan dan lisensinya: dataset LOL (subset our485), diunduh dari Kaggle (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset, diunggah oleh Soumik Rakshit). Dataset aslinya dari Wei dkk., 2018, *Deep Retinex Decomposition for Low-Light Enhancement*. Lisensi: tidak dicantumkan di halaman Kaggle (Unknown); dipakai untuk keperluan akademik.
+* Jumlah baris anotasi: 202
+* Cara pengambilan foto (perangkat, waktu, lokasi umum): diambil dengan kamera ponsel pada malam hari di sekitar rumah masing-masing anggota.
 
 ## Anotasi
 
 Pasangan citra gelap–terang sebagai referensi (mis. dataset LOL) dan foto malam sendiri. Foto sendiri tanpa pasangan dinilai dengan metrik tanpa referensi (NIQE/BRISQUE, opsional lewat paket pyiqa).
 
-Simpan sebagai `anotasi.csv` di folder Drive, satu baris per citra (atau per pasangan), dengan kolom persis seperti [format_anotasi.csv](format_anotasi.csv). Baris contoh di berkas itu fiktif.
+Simpan sebagai `anotasi.csv` di folder Drive, satu baris per citra (atau per pasangan), dengan kolom persis seperti format_anotasi.csv. Baris contoh di berkas itu fiktif.
 
 ## Etika dan privasi
 
