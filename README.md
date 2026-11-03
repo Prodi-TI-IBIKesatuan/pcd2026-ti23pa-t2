@@ -21,7 +21,7 @@ Memperbaiki pencahayaan dan keseimbangan warna foto yang diambil dalam kondisi g
 
 - Jumlah citra: 202
 - Foto sendiri: 62
-- Sumber data tambahan dan lisensinya: dataset LOL diunduh dari Kaggle (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset). Lisensi: tidak dicantumkan di halaman Kaggle (Unknown).
+- Sumber data tambahan dan lisensinya: dataset LOL diunduh dari Kaggle. Lisensi tidak dicantumkan di halaman Kaggle (Unknown).
 - Langkah preprocessing: [isi, ringkas dan berurutan]
 
 Rincian dataset, format anotasi, dan tautan Drive: [data/README.md](data/README.md). Contoh sebelum–sesudah ada di [outputs/figures/](outputs/figures/).
@@ -50,5 +50,5 @@ Tuliskan setiap kode, model, dataset, atau bantuan AI yang dipakai beserta sumbe
 
 | Yang dipakai | Sumber | Dipakai untuk |
 | --- | --- | --- |
-| Dataset LOL (140 pasangan) | Kaggle, Soumik Rakshit (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset) | Pasangan gelap–terang sebagai data dan referensi |
+| Dataset LOL (140 pasang foto) | Kaggle, Soumik Rakshit (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset) | Pasangan gelap–terang sebagai data dan referensi |
 | Bantuan AI: Claude (Anthropic) | https://claude.ai | Skrip data dan anotasi, serta draf dokumentasi README |
