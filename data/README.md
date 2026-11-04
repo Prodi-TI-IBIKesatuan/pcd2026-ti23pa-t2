@@ -7,7 +7,7 @@ Dataset lengkap tidak disimpan di repo ini. Repo hanya berisi `sample/` (≤ 20 
 * Tautan folder Google Drive (akses terbatas): https://drive.google.com/drive/folders/1joDeQtj9KFQZiE5Hr3ppgadUhE9jLWSu?usp=sharing
 * Jumlah citra: 202 (140 pasangan gelap–terang dari LOL + 62 foto malam sendiri)
 * Foto sendiri per anggota: adhimas 15, arya 15, fadly 15, toriq 17
-* Sumber data tambahan dan lisensinya: dataset LOL (140 pasangan dipakai dan dianotasi), diunduh dari Kaggle (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset, diunggah oleh Soumik Rakshit). Lisensi: tidak dicantumkan di halaman Kaggle (Unknown); dipakai untuk keperluan akademik.
+* Sumber data tambahan dan lisensinya: dataset LOL (140 pasangan dipakai dan dianotasi), diunduh dari Kaggle (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset, diunggah oleh Soumik Rakshit). Lisensi: tidak dicantumkan di halaman Kaggle (Unknown).
 * Jumlah baris anotasi: 202
 * Cara pengambilan foto (perangkat, waktu, lokasi umum): diambil dengan kamera ponsel pada malam hari di sekitar rumah masing-masing anggota.
 
