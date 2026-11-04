@@ -4,7 +4,7 @@ Proyek kelompok **Pengolahan Citra Digital 2026** · kelas `ti23pa` · topik **T
 
 [![Cek proyek](https://github.com/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t2/actions/workflows/cek-proyek.yml/badge.svg)](https://github.com/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t2/actions/workflows/cek-proyek.yml)
 
-**Lingkup kelompok kami:** [isi: satu kalimat, mis. "lingkungan jalan"]
+**Lingkup kelompok kami:** lingkungan rumah
 
 Memperbaiki pencahayaan dan keseimbangan warna foto yang diambil dalam kondisi gelap. Anggota dan perannya ada di [ANGGOTA.yml](ANGGOTA.yml); cara kerja kelompok ada di [PANDUAN.md](PANDUAN.md).
 
@@ -19,9 +19,9 @@ Memperbaiki pencahayaan dan keseimbangan warna foto yang diambil dalam kondisi g
 
 ## Dataset (Tahap 1)
 
-- Jumlah citra: [isi, minimal 200]
-- Foto sendiri: [isi, minimal 60, 15 per anggota]
-- Sumber data tambahan dan lisensinya: [isi, atau tulis "tidak ada"]
+- Jumlah citra: 202
+- Foto sendiri: 62
+- Sumber data tambahan dan lisensinya: dataset LOL diunduh dari Kaggle. Lisensi tidak dicantumkan di halaman Kaggle (Unknown).
 - Langkah preprocessing: [isi, ringkas dan berurutan]
 
 Rincian dataset, format anotasi, dan tautan Drive: [data/README.md](data/README.md). Contoh sebelum–sesudah ada di [outputs/figures/](outputs/figures/).
@@ -50,4 +50,5 @@ Tuliskan setiap kode, model, dataset, atau bantuan AI yang dipakai beserta sumbe
 
 | Yang dipakai | Sumber | Dipakai untuk |
 | --- | --- | --- |
-| [isi] | [isi] | [isi] |
+| Dataset LOL (140 pasang foto) | Kaggle, Soumik Rakshit (https://www.kaggle.com/datasets/soumikrakshit/lol-dataset) | Pasangan gelap–terang sebagai data dan referensi |
+| Bantuan AI: Claude (Anthropic) | https://claude.ai | Skrip data dan anotasi, serta draf dokumentasi README |
