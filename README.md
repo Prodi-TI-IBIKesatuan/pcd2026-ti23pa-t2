@@ -22,7 +22,13 @@ Memperbaiki pencahayaan dan keseimbangan warna foto yang diambil dalam kondisi g
 - Jumlah citra: 202
 - Foto sendiri: 62
 - Sumber data tambahan dan lisensinya: dataset LOL diunduh dari Kaggle. Lisensi tidak dicantumkan di halaman Kaggle (Unknown).
-- Langkah preprocessing: [isi, ringkas dan berurutan]
+- Langkah preprocessing: 
+Menentukan Preprocessing Citra Malam
+Preprocessing yang digunakan:
+(1). Resize citra menjadi 512 × 512 piksel dengan INTER_AREA.
+(2). Mengubah ruang warna BGR ke LAB.
+(3). Memisahkan kanal L (luminans), A, dan B (warna).
+(4). Tidak melakukan enhancement pada tahap preprocessing.
 
 Rincian dataset, format anotasi, dan tautan Drive: [data/README.md](data/README.md). Contoh sebelum–sesudah ada di [outputs/figures/](outputs/figures/).
 
