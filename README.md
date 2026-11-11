@@ -25,14 +25,14 @@ Memperbaiki pencahayaan dan keseimbangan warna foto yang diambil dalam kondisi g
 - Langkah preprocessing: 
 Menentukan Preprocessing Citra Malam
 Preprocessing yang digunakan:
-- Resize citra menjadi 512 × 512 piksel dengan INTER_AREA.
-- Mengubah ruang warna BGR ke LAB.
-- Memisahkan kanal L (luminans), A, dan B (warna).
-- Tidak melakukan enhancement pada tahap preprocessing.
+(1) Resize citra menjadi 512 × 512 piksel dengan INTER_AREA.
+(2) Mengubah ruang warna BGR ke LAB.
+(2) Memisahkan kanal L (luminans), A, dan B (warna).
+(4) Tidak melakukan enhancement pada tahap preprocessing.
 Menguji Preprocessing
-- Menggunakan satu citra dari dataset.
-- Menjalankan preprocessing dan memeriksa ukuran serta kanal hasil.
-- Menampilkan visualisasi citra asli, hasil resize, dan kanal LAB.
+(1) Menggunakan satu citra dari dataset.
+(2) Menjalankan preprocessing dan memeriksa ukuran serta kanal hasil.
+(3) Menampilkan visualisasi citra asli, hasil resize, dan kanal LAB.
 
 Rincian dataset, format anotasi, dan tautan Drive: [data/README.md](data/README.md). Contoh sebelum–sesudah ada di [outputs/figures/](outputs/figures/).
 
